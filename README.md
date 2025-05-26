@@ -1,3 +1,4 @@
-Simple Port scanner using python to idenitfy open ports
+Simple Port scanner using Python to identify open ports
 usage in Linux: python3 ./hack.py [target ip] [-c for common ports] [-s starting port] [-e ending port]
-in windows use it by an IDE that has python, make sure to install the following library if you dont have it:
+In Windows use it with an IDE that has Python, make sure to install the following libraries if you don't have them:
+socket, sys, threading, argparse, ipaddress, colorama
